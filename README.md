@@ -61,4 +61,8 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [3396-valid-word](https://github.com/CuTyche/LeetCode_Diaries/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
