@@ -50,6 +50,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0042-trapping-rain-water](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0042-trapping-rain-water) |
+| [0287-find-the-duplicate-number](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,4 +77,12 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
