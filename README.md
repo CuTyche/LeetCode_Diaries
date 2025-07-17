@@ -24,6 +24,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0138-copy-list-with-random-pointer) |
@@ -33,6 +34,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0206-reverse-linked-list) |
@@ -69,4 +71,8 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [3396-valid-word](https://github.com/CuTyche/LeetCode_Diaries/tree/master/3396-valid-word) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
