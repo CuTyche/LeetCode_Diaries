@@ -88,6 +88,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0226-invert-binary-tree) |
@@ -95,6 +96,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0226-invert-binary-tree) |
@@ -102,11 +104,13 @@ This is my daily log of solving DSA problems one green square at a time 💚
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0226-invert-binary-tree) |
