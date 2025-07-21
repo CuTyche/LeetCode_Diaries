@@ -72,6 +72,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 ## String
 |  |
 | ------- |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/CuTyche/LeetCode_Diaries/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3396-valid-word](https://github.com/CuTyche/LeetCode_Diaries/tree/master/3396-valid-word) |
 ## Math
 |  |
