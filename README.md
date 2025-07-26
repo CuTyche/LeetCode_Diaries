@@ -61,6 +61,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0287-find-the-duplicate-number) |
+| [2058-concatenation-of-array](https://github.com/CuTyche/LeetCode_Diaries/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,4 +138,8 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/CuTyche/LeetCode_Diaries/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
