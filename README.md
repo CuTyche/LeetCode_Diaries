@@ -63,6 +63,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0042-trapping-rain-water) |
 | [0217-contains-duplicate](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0287-find-the-duplicate-number) |
@@ -78,6 +79,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0242-valid-anagram) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/CuTyche/LeetCode_Diaries/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3396-valid-word](https://github.com/CuTyche/LeetCode_Diaries/tree/master/3396-valid-word) |
@@ -153,4 +155,8 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | ------- |
 | [0217-contains-duplicate](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
