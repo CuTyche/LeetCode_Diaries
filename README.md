@@ -31,6 +31,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0141-linked-list-cycle](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0206-reverse-linked-list) |
+| [0816-design-hashset](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0816-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0169-majority-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0242-valid-anagram) |
+| [0816-design-hashset](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0816-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +75,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0169-majority-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0287-find-the-duplicate-number) |
+| [0816-design-hashset](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0816-design-hashset) |
 | [2058-concatenation-of-array](https://github.com/CuTyche/LeetCode_Diaries/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -149,6 +152,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0572-subtree-of-another-tree) |
+| [0816-design-hashset](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0816-design-hashset) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -176,4 +180,8 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
