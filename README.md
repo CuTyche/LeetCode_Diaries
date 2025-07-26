@@ -44,6 +44,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0138-copy-list-with-random-pointer](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0242-valid-anagram) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/CuTyche/LeetCode_Diaries/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3396-valid-word](https://github.com/CuTyche/LeetCode_Diaries/tree/master/3396-valid-word) |
 ## Math
@@ -148,4 +150,5 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
