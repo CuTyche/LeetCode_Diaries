@@ -51,6 +51,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0143-reorder-list) |
@@ -65,6 +66,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | ------- |
 | [0001-two-sum](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0217-contains-duplicate) |
