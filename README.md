@@ -52,6 +52,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0242-valid-anagram](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0242-valid-anagram) |
 | [0816-design-hashset](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0817-design-hashmap) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/CuTyche/LeetCode_Diaries/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0816-design-hashset](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0948-sort-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/CuTyche/LeetCode_Diaries/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2058-concatenation-of-array](https://github.com/CuTyche/LeetCode_Diaries/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -174,6 +176,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0217-contains-duplicate](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0948-sort-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/CuTyche/LeetCode_Diaries/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Trie
 |  |
 | ------- |
