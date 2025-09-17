@@ -80,6 +80,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0169-majority-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0287-find-the-duplicate-number) |
+| [0304-range-sum-query-2d-immutable](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0817-design-hashmap) |
@@ -201,6 +202,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0817-design-hashmap) |
 ## Heap (Priority Queue)
@@ -229,4 +231,12 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
