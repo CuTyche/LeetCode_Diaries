@@ -51,6 +51,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0169-majority-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0817-design-hashmap) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/CuTyche/LeetCode_Diaries/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -79,6 +80,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0169-majority-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0948-sort-an-array) |
@@ -178,6 +180,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0169-majority-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/CuTyche/LeetCode_Diaries/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Trie
@@ -188,11 +191,13 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -201,6 +206,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -209,6 +215,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -218,4 +225,8 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0948-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
