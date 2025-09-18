@@ -80,6 +80,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0036-valid-sudoku](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0049-group-anagrams) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0217-contains-duplicate) |
@@ -96,6 +97,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0042-trapping-rain-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -250,4 +252,8 @@ This is my daily log of solving DSA problems one green square at a time 💚
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
