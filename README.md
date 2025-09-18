@@ -47,6 +47,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0001-two-sum](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0169-majority-element) |
@@ -79,6 +80,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0036-valid-sudoku](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0238-product-of-array-except-self) |
@@ -244,4 +246,8 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0304-range-sum-query-2d-immutable) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
