@@ -55,6 +55,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0229-majority-element-ii](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0817-design-hashmap) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/CuTyche/LeetCode_Diaries/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -90,6 +91,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0287-find-the-duplicate-number](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0948-sort-an-array) |
@@ -252,6 +254,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0560-subarray-sum-equals-k) |
 ## Union Find
 |  |
 | ------- |
