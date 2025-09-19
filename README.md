@@ -46,6 +46,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | ------- |
 | [0001-two-sum](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0138-copy-list-with-random-pointer) |
@@ -80,6 +81,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0014-longest-common-prefix](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
