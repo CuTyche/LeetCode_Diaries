@@ -72,6 +72,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0287-find-the-duplicate-number](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/CuTyche/LeetCode_Diaries/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -121,6 +122,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0344-reverse-string](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0680-valid-palindrome-ii) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/CuTyche/LeetCode_Diaries/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1894-merge-strings-alternately](https://github.com/CuTyche/LeetCode_Diaries/tree/master/1894-merge-strings-alternately) |
 | [3396-valid-word](https://github.com/CuTyche/LeetCode_Diaries/tree/master/3396-valid-word) |
 ## Math
 |  |
