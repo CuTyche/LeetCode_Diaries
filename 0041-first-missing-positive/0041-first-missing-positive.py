@@ -1,12 +1,17 @@
 class Solution(object):
     def firstMissingPositive(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        nums.sort()
-        k = 1
-        for num in nums:
-            if num> 0 and k == num:
-                k+=1
-        return k
+        n = len(nums)
+        i = 0
+        while i < n:
+            if 1 <= nums[i] <= n:  # only work with valid numbers
+                index = nums[i] - 1
+                if nums[i] != nums[index]:
+                    nums[i], nums[index] = nums[index], nums[i]
+                    continue   # recheck the swapped value
+            i += 1
+
+        for i in range(n):
+            if nums[i] != i + 1:
+                return i + 1
+
+        return n + 1
