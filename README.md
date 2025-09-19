@@ -66,6 +66,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | [0019-remove-nth-node-from-end-of-list](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0287-find-the-duplicate-number) |
@@ -114,6 +115,7 @@ This is my daily log of solving DSA problems one green square at a time 💚
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/CuTyche/LeetCode_Diaries/tree/master/0344-reverse-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/CuTyche/LeetCode_Diaries/tree/master/1302-delete-characters-to-make-fancy-string) |
