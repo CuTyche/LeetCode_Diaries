@@ -5,9 +5,14 @@ class Solution(object):
         :type k: int
         :rtype: bool
         """
-        for l in range(len(nums)):
-            for r in range(l+1, min(len(nums), l+k+1)):
-                if nums[l] == nums[r]:
-                    return True
+        window = set()
+        L = 0
+        for R in range(len(nums)):
+            if R-L>k:
+                window.remove(nums[L])
+                L+=1
+            if nums[R] in window:
+                return True
+            window.add(nums[R])
         return False
         
