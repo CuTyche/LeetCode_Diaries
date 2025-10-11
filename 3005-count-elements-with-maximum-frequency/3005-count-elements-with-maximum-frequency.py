@@ -6,5 +6,5 @@ class Solution(object):
         """
         freq = Counter(nums)
         max_count = max(freq.values())
-        return sum(count for count in freq.values() if count == max_count)
+        return sum(v for v in freq.values() if v == max_count)
         
