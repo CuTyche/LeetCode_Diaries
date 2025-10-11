@@ -1,5 +1,11 @@
-class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
+class Solution(object):
+    def majorityElement(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        n = len(nums)
         count = Counter(nums)
-        return max(count, key = count.get)
-        
+        for num, freq in count.items():
+            if freq > n//2:
+                return num
