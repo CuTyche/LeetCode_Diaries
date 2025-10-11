@@ -4,8 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        n = len(nums)
-        count = Counter(nums)
-        for num, freq in count.items():
-            if freq > n//2:
-                return num
+        ans = 0
+        count = 0
+        for i in nums:
+            if count == 0:
+                ans = i
+            if ans == i:
+                count +=1
+            else:
+                count -=1
+        return ans
